@@ -3,7 +3,6 @@
  $peso = $_POST['peso'];
  $altura = $_POST['altura'];
  $idade = $_POST['idade'];
- $idade = $_POST['idade'];
 
  include "Pessoa.php";
 $paciente = new Pessoa();
